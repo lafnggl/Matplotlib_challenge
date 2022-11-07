@@ -62,6 +62,7 @@ I am utilizing matplotlib and Jupyter Notebook to analyze data from a pharmaceut
 
     * There is a correlation between weight and tumor volume. The heavier the mouse, the larger the tumor volume. 
     * The Capomulin drug seems to have a positive impact on shrinking the overall size of the tumor overtime.
+    * The drug Infubinol had the only outlier when looking at the box plot. This is also significant because it had mostly mice with large tumors, so the one mouse with the smaller tumor might throw off the average for the drug overall.
 
 * What are some limitations of this dataset?
 
